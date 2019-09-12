@@ -19,6 +19,7 @@ class TodoInput extends Component {
           onChangeText={this.props.onTodoInput}
           placeholder="enter new task"
           style={styles.input}
+          maxLength={40}
         />
         <TouchableOpacity onPress={this.props.onAddTodo} style={styles.button}>
           <Text style={{ color: "#fff", fontSize: 40 }}>+</Text>
