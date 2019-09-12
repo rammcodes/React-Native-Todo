@@ -18,5 +18,5 @@ A todo app built with React Native
 
 
 
-Hope This Help's
+Hope This Helpful
 #Thank-You
